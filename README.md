@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @AshleyMbeve
-- 👀 I’m interested in Gaming 
-- 🌱 I’m currently studying in my final semester Bsc (hons) in Computing
-- 💞️ I’m looking to collaborate on any programming projects to develop my coding skills
-- 📫 How to reach me mbeve99@outlook or ashleymbeve99@gmail.com
-- 😄 Pronouns: Her, She
-- ⚡ Fun fact: ...
+# Hi, I'm Ashley Mbeve 👋
 
-<!---
-SafaliMbeve/SafaliMbeve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computing student in my final semester of a **BSc (Hons) in Computing**, interested in software development, web technologies, and gaming.
+
+## About me
+
+- 🎓 Currently completing my BSc (Hons) in Computing
+- 💻 Interested in software development and building practical applications
+- 🎮 Passionate about gaming
+- 🌱 Continuously improving my programming and problem-solving skills
+- 🤝 Open to collaborating on programming and software projects
+- 🚀 Interested in opportunities where I can learn, contribute, and grow
+
+## What I'm looking for
+
+I'm interested in collaborating on:
+
+- Web applications
+- Student and open-source projects
+- Beginner-friendly programming projects
+- Projects involving problem-solving and user-focused design
+
+If you're working on an interesting project, feel free to reach out.
+
+## Featured project
+
+- [Abo-Abbas Grocery System](https://github.com/SafaliMbeve/Abo-Abbas-grocery-System) — An e-commerce grocery system with product browsing, cart functionality, checkout, and payment integration.
+
+## Contact
+
+- 📧 [mbeve99@outlook.com](mailto:mbeve99@outlook.com)
+- 📧 [ashleymbeve99@gmail.com](mailto:ashleymbeve99@gmail.com)
+
+## Fun fact
+
+I enjoy gaming and like exploring how technology can be used to create engaging digital experiences.
