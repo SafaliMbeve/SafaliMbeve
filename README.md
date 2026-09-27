@@ -33,4 +33,4 @@ If you're working on an interesting project, feel free to reach out.
 
 ## Fun fact
 
-I enjoy gaming. Repeated Far cry 3 over 13 times lol
+I enjoy gaming. Repeated Far Cry 3 over 13 times lol
